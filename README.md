@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohamed 👋
 
-<!--
-**marshe-tw/marshe-tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Writer in Munich, working with **DITA XML** and **structured authoring**. I build small tools that combine documentation expertise with AI.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[DITA Topic Generator](https://github.com/marshe-tw/dita-topic-generator):** turns raw notes into well-formed DITA topics using the Claude API
+- **[Docs-Quality-Checker](https://github.com/marshe-tw/docs-quality-checker):** reviews Markdown documentation for clarity, missing information, and terminology
+- **[Claude API Documentation](https://marshe-tw.github.io/claude-api-docs/):** a Docs-as-Code project with OpenAPI 3.0, MkDocs, and GitHub Actions
+
+## What I believe
+
+AI can speed up the first draft. The judgment, the review, and the responsibility stay with the technical writer.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-arshe-083b712ba/)
